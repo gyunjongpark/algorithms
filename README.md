@@ -1,2 +1,2 @@
 # algorithms
-To write algorithm solutions in C++
+solutions in C++
