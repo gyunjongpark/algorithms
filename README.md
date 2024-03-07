@@ -1,2 +1,1 @@
-# algorithms
-solutions in C++
+# Algorithms Solutions in C++
