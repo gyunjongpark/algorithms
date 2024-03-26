@@ -1,1 +1,1 @@
-# Algorithms Solutions in C++
+# STUDY for codingTest
